@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "ImageAppAPI\\ImageApp.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ImageApp.Desktop\\ImageApp.Desktop.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

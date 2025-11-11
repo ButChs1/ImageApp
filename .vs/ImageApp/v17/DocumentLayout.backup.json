@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BNoob\\source\\repos\\ImageApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{659056DB-C7AC-4EEE-B268-7B4B669A4EAA}|ImageApp.Desktop\\ImageApp.Desktop.csproj|c:\\users\\bnoob\\source\\repos\\imageapp\\imageapp.desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659056DB-C7AC-4EEE-B268-7B4B669A4EAA}|ImageApp.Desktop\\ImageApp.Desktop.csproj|solutionrelative:imageapp.desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBC9449-CDCA-406D-AFBF-3D90CFCE1B8D}|ImageAppAPI\\ImageAppAPI.csproj|c:\\users\\bnoob\\source\\repos\\imageapp\\imageappapi\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBC9449-CDCA-406D-AFBF-3D90CFCE1B8D}|ImageAppAPI\\ImageAppAPI.csproj|solutionrelative:imageappapi\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659056DB-C7AC-4EEE-B268-7B4B669A4EAA}|ImageApp.Desktop\\ImageApp.Desktop.csproj|c:\\users\\bnoob\\source\\repos\\imageapp\\imageapp.desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{659056DB-C7AC-4EEE-B268-7B4B669A4EAA}|ImageApp.Desktop\\ImageApp.Desktop.csproj|solutionrelative:imageapp.desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBC9449-CDCA-406D-AFBF-3D90CFCE1B8D}|ImageAppAPI\\ImageApp.API.csproj|c:\\users\\bnoob\\source\\repos\\imageapp\\imageappapi\\imageapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDBC9449-CDCA-406D-AFBF-3D90CFCE1B8D}|ImageAppAPI\\ImageApp.API.csproj|solutionrelative:imageappapi\\imageapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBC9449-CDCA-406D-AFBF-3D90CFCE1B8D}|ImageAppAPI\\ImageAppAPI.csproj|c:\\users\\bnoob\\source\\repos\\imageapp\\imageappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBC9449-CDCA-406D-AFBF-3D90CFCE1B8D}|ImageAppAPI\\ImageAppAPI.csproj|solutionrelative:imageappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\BNoob\\source\\repos\\ImageApp\\ImageAppAPI\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "ImageAppAPI\\Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\BNoob\\source\\repos\\ImageApp\\ImageAppAPI\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "ImageAppAPI\\Controllers\\ImagesController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:11:41.044Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BNoob\\source\\repos\\ImageApp\\ImageAppAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ImageAppAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\BNoob\\source\\repos\\ImageApp\\ImageAppAPI\\Program.cs",
+              "RelativeToolTip": "ImageAppAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:22:19.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\BNoob\\source\\repos\\ImageApp\\ImageApp.Desktop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ImageApp.Desktop\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\BNoob\\source\\repos\\ImageApp\\ImageApp.Desktop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ImageApp.Desktop\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:12:16.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageApp.API.csproj",
+              "DocumentMoniker": "C:\\Users\\BNoob\\source\\repos\\ImageApp\\ImageAppAPI\\ImageApp.API.csproj",
+              "RelativeDocumentMoniker": "ImageAppAPI\\ImageApp.API.csproj",
+              "ToolTip": "C:\\Users\\BNoob\\source\\repos\\ImageApp\\ImageAppAPI\\ImageApp.API.csproj",
+              "RelativeToolTip": "ImageAppAPI\\ImageApp.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-11T08:11:35.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\BNoob\\source\\repos\\ImageApp\\ImageApp.Desktop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ImageApp.Desktop\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\BNoob\\source\\repos\\ImageApp\\ImageApp.Desktop\\MainWindow.xaml",
+              "RelativeToolTip": "ImageApp.Desktop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T08:11:33.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\BNoob\source\repos\ImageApp\ImageApp.core\bin\Debug\net9.0\ImageApp.core.deps.json
+C:\Users\BNoob\source\repos\ImageApp\ImageApp.core\bin\Debug\net9.0\ImageApp.core.dll
+C:\Users\BNoob\source\repos\ImageApp\ImageApp.core\bin\Debug\net9.0\ImageApp.core.pdb
+C:\Users\BNoob\source\repos\ImageApp\ImageApp.core\obj\Debug\net9.0\ImageApp.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BNoob\source\repos\ImageApp\ImageApp.core\obj\Debug\net9.0\ImageApp.core.AssemblyInfoInputs.cache
+C:\Users\BNoob\source\repos\ImageApp\ImageApp.core\obj\Debug\net9.0\ImageApp.core.AssemblyInfo.cs
+C:\Users\BNoob\source\repos\ImageApp\ImageApp.core\obj\Debug\net9.0\ImageApp.core.csproj.CoreCompileInputs.cache
+C:\Users\BNoob\source\repos\ImageApp\ImageApp.core\obj\Debug\net9.0\ImageApp.core.dll
+C:\Users\BNoob\source\repos\ImageApp\ImageApp.core\obj\Debug\net9.0\refint\ImageApp.core.dll
+C:\Users\BNoob\source\repos\ImageApp\ImageApp.core\obj\Debug\net9.0\ImageApp.core.pdb
+C:\Users\BNoob\source\repos\ImageApp\ImageApp.core\obj\Debug\net9.0\ref\ImageApp.core.dll
